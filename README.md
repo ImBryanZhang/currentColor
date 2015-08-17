@@ -18,7 +18,7 @@
 .current { color: #31c27c; border-bottom: solid 2px #31c27c; }
 ```
 
-但是由于需要支持换肤，所以选中态的文字颜色值和边框颜色值都不能写死，然后再用
+但是由于需要支持换肤，所以选中态的文字颜色值和边框颜色值都不能写死，然后再用指定的换肤类名来控制颜色：
 
 ``` css
 .current { border-bottom: solid 2px; }
@@ -48,7 +48,7 @@
 border: solid 1px currentColor;
 box-shadow: inset 2px 2px 3px currentColor;
 background-color: currentColor;
-background-image: linear-gradient(currentColor, transparent);
+background-image: linear-gradient(transparent, currentColor);
 fill: currentColor; 
 ```
 
@@ -79,4 +79,14 @@ fill: currentColor;
 
 
 ## 浏览器支持
+
+
+
+
+
+## 扩展阅读
+
+[The First CSS Variable: currentColor​]: http://demosthenes.info/blog/908/The-First-CSS-Variable-currentColor	"The First CSS Variable: currentColor​"
+
+
 

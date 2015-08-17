@@ -84,9 +84,9 @@ fill: currentColor;
 
 
 
-## 扩展阅读
+## 扩展阅读​
 
-[The First CSS Variable: currentColor​]: http://demosthenes.info/blog/908/The-First-CSS-Variable-currentColor	"The First CSS Variable: currentColor​"
+[The First CSS Variable: currentColor]: http://demosthenes.info/blog/908/The-First-CSS-Variable-currentColor	"The First CSS Variable: currentColor"
 
 
 

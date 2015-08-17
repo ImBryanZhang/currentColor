@@ -4,7 +4,7 @@
 
 先说说是怎样发现的，下面是一个普通的响应式导航：
 
- ![nav](/Users/zhangzhicong/github/currentColor/img/nav.jpg)
+ ![nav](https://raw.githubusercontent.com/ImBryanZhang/currentColor/master/img/nav.jpg)
 
 每个item的颜色值应该就是这样：
 

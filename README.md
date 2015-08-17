@@ -80,13 +80,17 @@ fill: currentColor;
 
 ## 浏览器支持
 
+![browser support](https://raw.githubusercontent.com/ImBryanZhang/currentColor/master/img/browser_support.jpg)
+
+从[Can I use](http://caniuse.com/#feat=currentcolor)的数据可以看出
 
 
 
+## 扩展阅读​​
 
-## 扩展阅读​
+[The First CSS Variable: currentColor](http://demosthenes.info/blog/908/The-First-CSS-Variable-currentColor)
 
-[The First CSS Variable: currentColor]: http://demosthenes.info/blog/908/The-First-CSS-Variable-currentColor	"The First CSS Variable: currentColor"
+
 
 
 

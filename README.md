@@ -106,9 +106,19 @@ fill: currentColor;
 
 [The First CSS Variable: currentColor](http://demosthenes.info/blog/908/The-First-CSS-Variable-currentColor)
 
-[Extending the Color Cascade with the CSScurrentColor Variable](http://blogs.adobe.com/dreamweaver/2015/02/extending-the-color-cascade-with-the-css-currentcolor-variable.html)    翻译版本：[使用CSS的currentColor变量扩展颜色级联](http://www.w3cplus.com/css3/extending-the-color-cascade-with-the-css-currentcolor-variable.html)
 
-[Keeping CSS short with currentColor](http://osvaldas.info/keeping-css-short-with-currentcolor)    翻译版本：[currentColor让CSS更简短](http://www.w3cplus.com/css3/keeping-css-short-with-currentcolor.html)
+
+[Extending the Color Cascade with the CSScurrentColor Variable](http://blogs.adobe.com/dreamweaver/2015/02/extending-the-color-cascade-with-the-css-currentcolor-variable.html)
+
+翻译版本：[使用CSS的currentColor变量扩展颜色级联](http://www.w3cplus.com/css3/extending-the-color-cascade-with-the-css-currentcolor-variable.html)
+
+
+
+[Keeping CSS short with currentColor](http://osvaldas.info/keeping-css-short-with-currentcolor)
+
+翻译版本：[currentColor让CSS更简短](http://www.w3cplus.com/css3/keeping-css-short-with-currentcolor.html)
+
+
 
 [currentColor-CSS3超高校级好用CSS关键字](http://www.zhangxinxu.com/wordpress/2014/10/currentcolor-css3-powerful-css-keyword/)
 

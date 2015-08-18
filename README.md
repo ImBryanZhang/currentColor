@@ -91,10 +91,10 @@ fill: currentColor;
    ```
    
 2. **换肤**
-
-	![](https://raw.githubusercontent.com/ImBryanZhang/currentColor/master/img/currentColor-components-small.gif)
-
-	
+   
+   ![](https://raw.githubusercontent.com/ImBryanZhang/currentColor/master/img/currentColor-components-small.gif)
+   
+   详情请看[Styling with STRINGS](http://simurai.com/blog/2014/05/04/cssconf/)，这篇文章的主要内容是：在UI组件中如何使用Flexbox、`currentColor`和`em`单位，来快速地直接在浏览器中编写整个Web Apps的样式。
 
 
 
